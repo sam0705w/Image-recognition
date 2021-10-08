@@ -1,0 +1,12 @@
+body{
+background-color:crimson;
+
+}
+#camera,#result{
+    width:40%;
+    height:40%;
+    border:1px solid rgb(67, 201, 190);
+}
+b{
+    color: royalblue;
+}
